@@ -12,3 +12,5 @@ layouts using react native .
 * TextInput component
 * KeyboardAvoidingView component 
 https://media-exp1.licdn.com/dms/image/C4D22AQFszB3k-4iQnw/feedshare-shrink_800/0/1642523245061?e=1645660800&v=beta&t=AS6PjJfxo9lzBwrzrdAWtJDuOHFGVyL1IV34Y3p9TEM
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://media-exp1.licdn.com/dms/image/C4D22AQFszB3k-4iQnw/feedshare-shrink_800/0/1642523245061?e=1645660800&v=beta&t=AS6PjJfxo9lzBwrzrdAWtJDuOHFGVyL1IV34Y3p9TEM)  
