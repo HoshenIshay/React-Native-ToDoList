@@ -11,5 +11,6 @@ layouts using react native .
 * dealing with user input
 * TextInput component
 * KeyboardAvoidingView component 
-
-<img src='https://media-exp1.licdn.com/dms/image/C4D22AQFszB3k-4iQnw/feedshare-shrink_800/0/1642523245061?e=1645660800&v=beta&t=AS6PjJfxo9lzBwrzrdAWtJDuOHFGVyL1IV34Y3p9TEM' >
+![‏‏צילום מסך (59)](https://user-images.githubusercontent.com/87603302/197867187-05c9b08f-8b91-431a-ac1d-2e37ae6ffa1a.png)
+![‏‏צילום מסך (58)](https://user-images.githubusercontent.com/87603302/197867200-146d1a68-8504-43fe-bcf0-df6a733f7bed.png)
+![‏‏צילום מסך (60)](https://user-images.githubusercontent.com/87603302/197867218-c6d786b1-ecb1-46c7-83f5-58e0af32d57d.png)
